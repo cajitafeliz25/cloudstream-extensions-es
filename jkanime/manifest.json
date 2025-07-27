@@ -1,0 +1,8 @@
+{
+  "name": "JKAnime",
+  "description": "Extensión en español para ver anime desde JKAnime",
+  "version": "1.0.0",
+  "language": "es",
+  "authors": ["cajitafeliz25"],
+  "sources": ["jkanime"]
+}
