@@ -1,0 +1,12 @@
+{
+  "name": "Extensiones en español",
+  "description": "Repositorio con extensiones de anime en español como JKAnime",
+  "manifestVersion": 1,
+  "pluginLists": [
+    {
+      "name": "JKAnime",
+      "url": "Jkanime/build.gradle.kts",
+      "version": 1
+    }
+  ]
+}
